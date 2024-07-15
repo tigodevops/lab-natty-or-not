@@ -52,7 +52,7 @@ Como implementar a IA Generativa no seu trabalho
 - Gamma
 
 ## 🧐 Processo de Criação
-Conteudo de leitura gerado pelo Gemini e aprimorado pelo GammaApp, imagens tiradas da IA LeonardoAi.
+Conteudo de leitura gerado pelo Gemini e aprimorado pelo GammaApp, imagens tiradas da IA LeonardoAi e edição realizada na ferramenta VScode.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
