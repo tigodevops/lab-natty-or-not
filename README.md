@@ -56,8 +56,6 @@ Conteudo de leitura gerado pelo Gemini e aprimorado pelo GammaApp, imagens tirad
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-Análise concluída
-
 O ebook menciona os seguintes resultados positivos da IA Generativa:
 
 Aumento da Produtividade: Automatiza tarefas repetitivas, liberando tempo para atividades estratégicas e criativas.
